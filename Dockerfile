@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/kubernetes-zookeeper:3.3.6
+FROM k8s.gcr.io/kubernetes-zookeeper:3.4.10
