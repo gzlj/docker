@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/kubernetes-zookeeper:1.0-3.4.10
+FROM gcr.io/istio-release/proxy_init:1.0.0-snapshot.2
